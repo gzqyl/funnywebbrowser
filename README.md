@@ -1,4 +1,4 @@
-# funnywebbrowser
+# funny web browser
 any new features for funny web browser comes here
 
 The app could be installed from AppStore: [Funny Web Browser](https://apps.apple.com/us/app/funny-web-browser/id1659209417)
